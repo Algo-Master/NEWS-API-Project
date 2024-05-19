@@ -93,5 +93,14 @@ nav {
 }
 
 @media(max-width: 500px) {
-    
+    .navbar .logo {
+        font-size: 1.8rem;
+    }
+    #Search-Input {
+        max-width: 150px;
+        padding: 10px 10px;
+    }
+    .Blog-Card {
+        width: 100%;
+    }
 }
